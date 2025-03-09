@@ -5,7 +5,8 @@
 ## 🌱 Atualmente estou aprendendo 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />                    
 ## 👯 Estou procurando colaborar em Back end e/ou Front end
-## ⚡ Curiosidade: Sou Mestre de RPG Apaixonado por D&D
+## ⚡ Curiosidade: ![Uploading image.png…]()
+
 
 ## Contatos:
 
