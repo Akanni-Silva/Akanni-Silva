@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Akanni Silva and my nickname is Kani !
-## 1° Semestre em Analise e desenvolvimento de sistemas, Formatura Fev. 2027
 ## 😄 Pronomes: Ele/Dele
+
 ## 💻 Ferramentas familiares para mim
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50" height="50" /><img 
@@ -9,7 +9,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
           
                                      
 ## 👩🏿‍💻 Desejo colaborar em Back end e/ou Front end
-## ⚡ Curiosidade: Mestre de RPG de mesa (D&D) e terrano platina no SC2 
+## ⚡ Curiosidade: Mestre de RPG de mesa (D&D)
 
 
 ## Contatos:
