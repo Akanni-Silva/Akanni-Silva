@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Akanni Silva and my nickname is Kani !
+# 👋 Bemvindo ao meu perfil Git.
+## Aqui você pode conferir um pouco do meu desenvolvimento !
 ## 😄 Pronomes: Ele/Dele
 
 ## 💻 Ferramentas familiares para mim
