@@ -1,4 +1,4 @@
-# 👋 Bemvindo ao meu perfil Git.
+# 👋 Bem vindo ao meu perfil Git.
 ## Aqui você pode conferir um pouco do meu desenvolvimento !
 ## 😄 Pronomes: Ele/Dele
 
